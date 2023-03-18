@@ -1,0 +1,17 @@
+current directory: /Users/craw/Library/Mobile Documents/com~apple~CloudDocs/Work/tobiom.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+/Users/craw/.rbenv/versions/3.1.3/bin/ruby -I /Users/craw/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/craw/Library/Mobile Documents/com~apple~CloudDocs/Work/tobiom.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230318-26065-tjgy3d sitelibdir\=./.gem.20230318-26065-tjgy3d clean
+
+current directory: /Users/craw/Library/Mobile Documents/com~apple~CloudDocs/Work/tobiom.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230318-26065-tjgy3d sitelibdir\=./.gem.20230318-26065-tjgy3d
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/craw/Library/Mobile Documents/com~apple~CloudDocs/Work/tobiom.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230318-26065-tjgy3d sitelibdir\=./.gem.20230318-26065-tjgy3d install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230318-26065-tjgy3d/racc

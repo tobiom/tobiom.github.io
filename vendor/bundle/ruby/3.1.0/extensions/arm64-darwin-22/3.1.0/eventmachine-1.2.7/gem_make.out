@@ -1,0 +1,16 @@
+current directory: /Users/craw/Library/Mobile Documents/com~apple~CloudDocs/Work/tobiom.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/craw/.rbenv/versions/3.1.3/bin/ruby -I /Users/craw/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/craw/Library/Mobile Documents/com~apple~CloudDocs/Work/tobiom.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230318-26065-8asfao sitelibdir\=./.gem.20230318-26065-8asfao clean
+
+current directory: /Users/craw/Library/Mobile Documents/com~apple~CloudDocs/Work/tobiom.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230318-26065-8asfao sitelibdir\=./.gem.20230318-26065-8asfao
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/craw/Library/Mobile Documents/com~apple~CloudDocs/Work/tobiom.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230318-26065-8asfao sitelibdir\=./.gem.20230318-26065-8asfao install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20230318-26065-8asfao
