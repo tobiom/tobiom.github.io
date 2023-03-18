@@ -10,6 +10,7 @@ title: tobiomのブログ
 ## About Me
 
 * ハンドルネーム: くろすけ, tobiom
+* 専攻: 物理
 * Twitter: [@tobiom1987](https://www.twitter.com/tobiom1987)
 * Github: tobiom
 
@@ -20,9 +21,11 @@ title: tobiomのブログ
 * To be updated
 
 
+
 ## Note
 
 * [テンソル計算とEinsteinの縮約記法](https://tobiom.github.io/docs/contraction-rule.pdf)
+
 
 
 ## Other
