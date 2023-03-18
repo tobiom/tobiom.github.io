@@ -4,15 +4,15 @@ title: Link集
 permalink: /links/
 ---
 
-# 物理
+## 物理
 * [Gravitation, gauge theories and differential geometry](https://www.sciencedirect.com/science/article/abs/pii/0370157380901301)
 
 
-# 数学
+## 数学
 * [特殊関数 グラフィックスライブラリー](http://math-functions-1.watson.jp/index_010.html)
 
 
-# プログラミング
+## プログラミング
 * [Project Euler - Archives](https://projecteuler.net/archives)
 
 
