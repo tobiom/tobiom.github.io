@@ -4,7 +4,7 @@
 layout: home
 title: tobiomのブログ
 ---
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 
 ## About Me
@@ -30,7 +30,8 @@ title: tobiomのブログ
 
 ## Other
 
-* To be updated
+* [シン・ウルトラマンにおける$$\beta$$-system論文の写し](https://tobiom.github.io/files/beta-system.pdf)
+    * 確認可能な範囲内に限る。
 
 
 
