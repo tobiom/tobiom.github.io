@@ -24,7 +24,7 @@ title: tobiomのブログ
 
 ## Note
 
-* [テンソル計算とEinsteinの縮約記法](https://tobiom.github.io/docs/contraction-rule.pdf)
+* [テンソル計算とEinsteinの縮約記法](https://tobiom.github.io/files/contraction-rule.pdf)
 
 
 
