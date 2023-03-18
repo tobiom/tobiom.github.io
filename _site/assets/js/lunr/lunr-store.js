@@ -1,7 +1,7 @@
 var store = [{
         "title": "blogを作った",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["update"],
+        "excerpt":"Github Pages+Jekyllで自分のページを作りました。 今後このページでメモやノートを置いていきたいと思います。   Refference     Minimal Mistakes   Minimal Mistakes テーマではじめる Github Pages with Jekyll    ","categories": ["update"],
         "tags": [],
-        "url": "/update/2023/03/18/welcome-to-jekyll.html",
+        "url": "/update/welcome-to-jekyll/",
         "teaser": null
       }]
