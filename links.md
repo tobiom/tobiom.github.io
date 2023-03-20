@@ -5,7 +5,7 @@ permalink: /links/
 ---
 
 ## 物理
-* [Gravitation, gauge theories and differential geometry](https://www.sciencedirect.com/science/article/abs/pii/0370157380901301)
+* [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/)
 
 
 ## 数学
@@ -14,6 +14,11 @@ permalink: /links/
 
 ## プログラミング
 * [Project Euler - Archives](https://projecteuler.net/archives)
+
+
+## TeX
+
+* [Detexify](http://detexify.kirelabs.org/classify.html)
 
 
 <!-- ---
