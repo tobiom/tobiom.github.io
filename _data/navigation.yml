@@ -1,16 +1,10 @@
 # main links
 main:
-  - title: "Hatena"
-    url: https://tobiom.hatenablog.jp/
-  - title: "Links"
-    url: /links/
-  - title: "About"
-    url: /about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title:  "Hatena"
+    url:  https://tobiom.hatenablog.jp/
+  - title:  "Links"
+    url:  /links/
+  - title:  "About"
+    url:  /about/
+  - title:  "Tags"
+    url:  /tags/

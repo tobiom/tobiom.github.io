@@ -2,6 +2,7 @@
 layout: posts
 title: About
 permalink: /about/
+classes: wide
 ---
 
 ## Profile

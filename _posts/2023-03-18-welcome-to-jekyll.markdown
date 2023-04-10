@@ -1,8 +1,12 @@
 ---
 layout: posts
 date:   2023-03-18 14:35:23 +0900
-categories: update
 title:  "blogを作った"
+classes: wide
+tags:
+    - update
+categories:
+    - blog
 ---
 
 

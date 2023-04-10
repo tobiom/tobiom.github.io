@@ -258,16 +258,24 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:  all
+    # - categories
+    # - tags
+  layouts:
+    year    : archive-taxonomy
+    month   : archive-taxonomy
+    day     : archive-taxonomy
+    category: archive-taxonomy
+    tag     : archive-taxonomy
+  permalinks:
+    year    : /:year/
+    month   : /:year/:month/
+    day     : /:year/:month/:day/
+    category: /categories/:name/
+    tag     : /tags/:name/
+
+
 
 
 # HTML Compression
@@ -278,6 +286,8 @@ compress_html:
     envs: development
 
 
+
+
 # Defaults
 defaults:
   # _posts
@@ -286,8 +296,13 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+
+
+head_scripts:
+  - "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
